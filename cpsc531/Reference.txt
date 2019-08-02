@@ -1,0 +1,5 @@
+VALIDATE EMAIL
+https://stackoverflow.com/questions/15269507/how-to-validate-a-jtextfield-of-email-id-with-a-regex-in-swing-code
+
+VALIDATE PHONE NUMBER
+https://stackoverflow.com/questions/7979811/how-to-validate-if-textfield-entered-is-a-mobile-number-in-javaswing
